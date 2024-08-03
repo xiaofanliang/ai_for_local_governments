@@ -20,9 +20,9 @@ Starting with [MetroLab’s resource library](https://metrolabnetwork.org/ai-ini
 
 These research documents are preliminary insights. Please use with discretion and share with credits. 
 
-Mozaffar, E., Suri, A., Liang, X. (July 19th, 2024). An Analysis of Municipal-Level AI Governance in the United States. Presentation at MetroLab's GenAI Taskforce for Local Governments. **[Presentation Slides]**(https://docs.google.com/presentation/d/1R9dAR822GjMtB4PkBa2BTBsEoSOaZF32eocDymfIlJI/edit?usp=sharing). 
+Mozaffar, E., Suri, A., Liang, X. (July 19th, 2024). An Analysis of Municipal-Level AI Governance in the United States. Presentation at MetroLab's GenAI Taskforce for Local Governments. **[Presentation Slides](https://docs.google.com/presentation/d/1R9dAR822GjMtB4PkBa2BTBsEoSOaZF32eocDymfIlJI/edit?usp=sharing)**. 
 
-Mozaffar, E., Suri, A., Zhang, E. (May 15th, 2024). AI Governance: Analyzing City-Level Artificial Intelligence Policies in the United States. **[Report PDF](). [Data Table](https://docs.google.com/spreadsheets/d/1ws11lKcjLwduc4POXvYId5n0Zabt0jq0/edit?gid=906111947#gid=906111947). [Interactive Map](https://rpubs.com/estellaz/AIPoliciesUS)**. 
+Mozaffar, E., Suri, A., Zhang, E. (May 15th, 2024). AI Governance: Analyzing City-Level Artificial Intelligence Policies in the United States. **[Report PDF](https://github.com/xiaofanliang/ai_for_local_governments/blob/main/AI_Policy_Report.pdf). [Data Table](https://docs.google.com/spreadsheets/d/1ws11lKcjLwduc4POXvYId5n0Zabt0jq0/edit?gid=906111947#gid=906111947). [Interactive Map](https://rpubs.com/estellaz/AIPoliciesUS)**. 
 
 ## Team 
 
