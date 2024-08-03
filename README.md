@@ -1,6 +1,6 @@
 # AI Policy Analysis for Local Governments 
 
-[!map](map.jgp)
+[!Interactive Map of Local Governments' AI Policies](map.png)
 
 Cities are beginning to grapple with the introduction and prevalence of Artificial Intelligence (AI)
 in governance, the workforce, and the daily lives of citizens. Technological advancements such
